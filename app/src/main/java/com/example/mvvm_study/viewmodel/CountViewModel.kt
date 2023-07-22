@@ -1,4 +1,4 @@
-package com.example.mvvm_study
+package com.example.mvvm_study.viewmodel
 
 import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.ViewModel
